@@ -1,0 +1,5 @@
+[Client I] Trace log: /tmp/vsonline_logs/20201025_062243_16036069630070_VSCode.log
+[Client V] Initializing authentication
+[Client I] Extension activating {"isInternal":false,"isRunningInCloudEnvironment":false,"serviceEndpoint":"https://online.visualstudio.com/api/v1/environments"}
+[EnvironmentDetailsExplorer I] Updating environment details
+[Client I] Monitoring git changes
